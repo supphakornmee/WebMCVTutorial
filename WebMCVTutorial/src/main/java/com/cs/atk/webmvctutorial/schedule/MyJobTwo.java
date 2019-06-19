@@ -1,4 +1,4 @@
-package com.cs.atk.webmvc.tutorial.schedule;
+package com.cs.atk.webmvctutorial.schedule;
 
 import org.quartz.Job;
 import org.quartz.JobExecutionContext;
